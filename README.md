@@ -18,7 +18,7 @@
 
 ---
 
-### 💗 about_me.exe
+###  about_me.exe
 
 ```text
 > loading profile...
@@ -28,9 +28,9 @@
   status     : learning new things 
 ```
 
-### 💚 currently exploring
+###  currently exploring
 
-`bioinformatics` · `python` · `data analysis` · `genomics`
+`bioinformatics` · `python` · `data analysis` 
 
 ---
 
