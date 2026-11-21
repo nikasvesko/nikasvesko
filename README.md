@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="ok-Computer.png" width="100" alt="Y2K bioinformatics computer">
+  <img src="ok-computer.gif" width="100" alt="Y2K bioinformatics computer">
 </div>
   
 
