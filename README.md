@@ -18,16 +18,17 @@
 
 ---
 
-###  about_me.exe
 
+### about_me.exe
+
+<img src="loading.svg" width="220" alt="loading profile">
 
 ```text
-> loading profile...
-
   field      : bioinformatics
   interests  : coding & data
   status     : learning new things
 ```
+
 
 
 ###  currently exploring
