@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=26&duration=2000&pause=1500&color=000000&center=true&vCenter=true&width=500&lines=welcome+to+my+github" alt="welcome to my github">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=26&duration=7000&pause=1500&color=000000&center=true&vCenter=true&width=500&lines=welcome+to+my+github" alt="welcome to my github">
 </div>
   
 
