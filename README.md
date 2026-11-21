@@ -21,7 +21,9 @@
 ###  about_me.exe
 
 ```text
-> loading profile...
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=15&duration=1800&pause=300&color=000000&width=250&height=25&repeat=true&lines=%3E+loading+profile.;%3E+loading+profile..;%3E+loading+profile..." alt="loading profile">
+
 
   field      : bioinformatics
   interests  : coding & data
