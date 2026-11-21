@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**nikasvesko/nikasvesko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# ♡ welcome to my github ♡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`✧ pink pixels & DNA sequences ✧`
+
+</div>
+
+---
+
+### 💗 about_me.exe
+
+```text
+> loading profile...
+
+  field      : bioinformatics
+  interests  : coding, sequences & data
+  aesthetic  : y2k internet
+  status     : learning new things ♡
+```
+
+### 💚 currently exploring
+
+`bioinformatics` · `python` · `data analysis` · `genomics`
+
+---
+
+<div align="center">
+
+`♡ made of pixels & nucleotides ♡`
+
+</div>
+  
