@@ -4,6 +4,10 @@
 # ♡ welcome to my github ♡
 
 
+<div align="center">
+  <img src="ok-Computer.png" width="220" alt="Y2K bioinformatics computer">
+</div>
+  
 
 </div>
 
