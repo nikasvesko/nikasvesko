@@ -1,7 +1,11 @@
 
 <div align="center">
 
-# ♡ welcome to my github ♡
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=26&duration=130&pause=1200&color=FF69B4&center=true&vCenter=true&width=500&lines=%E2%99%A1+welcome+to+my+github+%E2%99%A1" alt="welcome to my github">
+</div>
+  
 
 
 <div align="center">
