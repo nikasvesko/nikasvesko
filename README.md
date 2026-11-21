@@ -3,7 +3,7 @@
 
 # ♡ welcome to my github ♡
 
-`✧ pink pixels & DNA sequences ✧`
+
 
 </div>
 
@@ -15,9 +15,8 @@
 > loading profile...
 
   field      : bioinformatics
-  interests  : coding, sequences & data
-  aesthetic  : y2k internet
-  status     : learning new things ♡
+  interests  : coding & data
+  status     : learning new things 
 ```
 
 ### 💚 currently exploring
@@ -28,7 +27,6 @@
 
 <div align="center">
 
-`♡ made of pixels & nucleotides ♡`
 
 </div>
   
